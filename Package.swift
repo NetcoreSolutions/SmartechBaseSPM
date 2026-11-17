@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .target(name: "SmartechBaseSPM"),
         .binaryTarget(name: "Smartech",
-                      url: "https://github.com/NetcoreSolutions/SmartechBaseSPM/releases/download/3.8.6/Smartech.xcframework.zip",
-                     checksum: "29fdd83fb0f017b58bd44b0c3a52359365c556ace5a416a9c04d180ec7dce3ee")
+                      url: "https://github.com/NetcoreSolutions/SmartechBaseSPM/releases/download/3.9.0/Smartech.xcframework.zip",
+                     checksum: "d31038ee96a7bb98b9ed5a0eea0cbefb72d9fcf095942bc36856227159a55d85")
     ]
 )
